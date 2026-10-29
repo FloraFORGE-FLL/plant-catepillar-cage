@@ -4,6 +4,8 @@
 
 ![Plant Caterpillar Cage](plant-catepillar-cage.png)
 
+This is a Breathable Seedling & Caterpillar Protection Cage. It sits over a small plant and the stakes push into the soil to hold it in place. The open grid lets in sun air and rain but keeps hungry birds and rabbits away. That gives young plants and caterpillars a safe place to grow so they can become big plants and butterflies.
+
 ## Printed with PHA 🌱
 
 **What is PHA?** PHA is a plastic made by tiny microbes! They munch on plant sugars and oils and store the PHA inside their bodies, kind of like how we store energy.
